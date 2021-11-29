@@ -21,7 +21,8 @@ steps:
   inputs: 
     scriptSource: 'inline' 
     script: | 
-
+      print('--------------END SEM LAB EXAM-------------') 
       print('AZURE PIPELINE') 
 
       print('CONTINUOUS INTEGRATION & CONTINUOUS DEPLOYMENT') 
+       
